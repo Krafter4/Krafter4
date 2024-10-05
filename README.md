@@ -5,9 +5,9 @@
 
 
 ## Languages and Tools:
-C
-C++
-C#
+C, 
+C++, 
+C#, 
 .NET
 
 
