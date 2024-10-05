@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Krafter4
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 📫 How to reach me Krafter4 on discord!
+## Full Stack Desktop Developer
 
-- Thanks for helping me on my journey!
+- Founder of Shox Service: https://discord.gg/3nDeRy5rNP
+- I'm a good cheat dev
+
+
+
+
+
+
+
+
+I main C++ and C#. I am also learning kernel.
+
+  
